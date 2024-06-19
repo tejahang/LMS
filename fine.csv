@@ -1,0 +1,6 @@
+fine_id	loan_id	First_Name	Last_Name	Phone_Number	Email	amount
+1	17	Anil	Gurung	+44 7700 900005	anil.gurung@example.com	10.00
+2	18	John	Smith	+44 20 7946 0958	john.smith@example.com	5.00
+3	19	Irina	Petrova	+44 20 7946 0960	irina.petrova@example.com	20.00
+4	20	Jane	Doe	+44 7700 900002	jane.doe@example.com	15.00
+5	21	Ethan	White	+44 7700 900007	ethan.white@example.com	30.23

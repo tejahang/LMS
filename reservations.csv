@@ -1,0 +1,7 @@
+reservation_id	book_id	copy_id	title	First_Name	last_Name	reservation_date
+1	1	19	Harry Potter and the Sorcerer's Stone	Ethan	White	2024-06-19 00:57:14
+2	5	25	To Kill a Mockingbird	Alice	Johnson	2024-06-19 00:57:14
+3	1	19	Harry Potter and the Sorcerer's Stone	Jane	Doe	2024-06-19 00:57:14
+4	4	22	1984	Irina	Petrova	2024-06-19 00:57:14
+5	8	26	Pride and Prejudice	Bob	Brown	2024-06-19 00:57:14
+6	8	28	Pride and Prejudice	Anil	Gurung	2024-06-19 00:57:14
